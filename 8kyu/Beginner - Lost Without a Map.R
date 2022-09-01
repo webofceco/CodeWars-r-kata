@@ -1,0 +1,1 @@
+maps <- function(v) {print (v * 2)}
